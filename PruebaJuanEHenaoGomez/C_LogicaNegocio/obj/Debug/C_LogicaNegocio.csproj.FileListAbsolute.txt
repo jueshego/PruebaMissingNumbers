@@ -1,0 +1,6 @@
+C:\App\MissingNumbers_JuanEHenaoGomez\C_LogicaNegocio\bin\Debug\C_LogicaNegocio.dll
+C:\App\MissingNumbers_JuanEHenaoGomez\C_LogicaNegocio\bin\Debug\C_LogicaNegocio.pdb
+C:\App\MissingNumbers_JuanEHenaoGomez\C_LogicaNegocio\obj\Debug\C_LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\App\MissingNumbers_JuanEHenaoGomez\C_LogicaNegocio\obj\Debug\C_LogicaNegocio.dll
+C:\App\MissingNumbers_JuanEHenaoGomez\C_LogicaNegocio\obj\Debug\C_LogicaNegocio.pdb
+C:\App\MissingNumbers_JuanEHenaoGomez\C_LogicaNegocio\obj\Debug\C_LogicaNegocio.csprojResolveAssemblyReference.cache

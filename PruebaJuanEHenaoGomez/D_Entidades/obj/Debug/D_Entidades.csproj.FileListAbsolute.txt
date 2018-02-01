@@ -1,0 +1,6 @@
+C:\App\MissingNumbers_JuanEHenaoGomez\D_Entidades\bin\Debug\D_Entidades.dll
+C:\App\MissingNumbers_JuanEHenaoGomez\D_Entidades\bin\Debug\D_Entidades.pdb
+C:\App\MissingNumbers_JuanEHenaoGomez\D_Entidades\obj\Debug\D_Entidades.csproj.CoreCompileInputs.cache
+C:\App\MissingNumbers_JuanEHenaoGomez\D_Entidades\obj\Debug\D_Entidades.dll
+C:\App\MissingNumbers_JuanEHenaoGomez\D_Entidades\obj\Debug\D_Entidades.pdb
+C:\App\MissingNumbers_JuanEHenaoGomez\D_Entidades\obj\Debug\D_Entidades.csprojResolveAssemblyReference.cache

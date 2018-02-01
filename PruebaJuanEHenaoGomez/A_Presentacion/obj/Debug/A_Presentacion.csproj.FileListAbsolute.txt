@@ -1,0 +1,16 @@
+C:\App\MissingNumbers_JuanEHenaoGomez\A_Presentacion\obj\Debug\A_Presentacion.Form1.resources
+C:\App\MissingNumbers_JuanEHenaoGomez\A_Presentacion\obj\Debug\A_Presentacion.Properties.Resources.resources
+C:\App\MissingNumbers_JuanEHenaoGomez\A_Presentacion\obj\Debug\A_Presentacion.csproj.GenerateResource.Cache
+C:\App\MissingNumbers_JuanEHenaoGomez\A_Presentacion\obj\Debug\A_Presentacion.csproj.CoreCompileInputs.cache
+C:\App\MissingNumbers_JuanEHenaoGomez\A_Presentacion\bin\Debug\A_Presentacion.exe.config
+C:\App\MissingNumbers_JuanEHenaoGomez\A_Presentacion\bin\Debug\A_Presentacion.exe
+C:\App\MissingNumbers_JuanEHenaoGomez\A_Presentacion\bin\Debug\A_Presentacion.pdb
+C:\App\MissingNumbers_JuanEHenaoGomez\A_Presentacion\bin\Debug\B_Fachada.dll
+C:\App\MissingNumbers_JuanEHenaoGomez\A_Presentacion\bin\Debug\D_Entidades.dll
+C:\App\MissingNumbers_JuanEHenaoGomez\A_Presentacion\bin\Debug\C_LogicaNegocio.dll
+C:\App\MissingNumbers_JuanEHenaoGomez\A_Presentacion\bin\Debug\B_Fachada.pdb
+C:\App\MissingNumbers_JuanEHenaoGomez\A_Presentacion\bin\Debug\D_Entidades.pdb
+C:\App\MissingNumbers_JuanEHenaoGomez\A_Presentacion\bin\Debug\C_LogicaNegocio.pdb
+C:\App\MissingNumbers_JuanEHenaoGomez\A_Presentacion\obj\Debug\A_Presentacion.csprojResolveAssemblyReference.cache
+C:\App\MissingNumbers_JuanEHenaoGomez\A_Presentacion\obj\Debug\A_Presentacion.exe
+C:\App\MissingNumbers_JuanEHenaoGomez\A_Presentacion\obj\Debug\A_Presentacion.pdb

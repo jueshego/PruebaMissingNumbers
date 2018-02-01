@@ -1,0 +1,10 @@
+C:\App\MissingNumbers_JuanEHenaoGomez\B_Fachada\bin\Debug\B_Fachada.dll
+C:\App\MissingNumbers_JuanEHenaoGomez\B_Fachada\bin\Debug\B_Fachada.pdb
+C:\App\MissingNumbers_JuanEHenaoGomez\B_Fachada\bin\Debug\C_LogicaNegocio.dll
+C:\App\MissingNumbers_JuanEHenaoGomez\B_Fachada\bin\Debug\D_Entidades.dll
+C:\App\MissingNumbers_JuanEHenaoGomez\B_Fachada\bin\Debug\C_LogicaNegocio.pdb
+C:\App\MissingNumbers_JuanEHenaoGomez\B_Fachada\bin\Debug\D_Entidades.pdb
+C:\App\MissingNumbers_JuanEHenaoGomez\B_Fachada\obj\Debug\B_Fachada.csprojResolveAssemblyReference.cache
+C:\App\MissingNumbers_JuanEHenaoGomez\B_Fachada\obj\Debug\B_Fachada.csproj.CoreCompileInputs.cache
+C:\App\MissingNumbers_JuanEHenaoGomez\B_Fachada\obj\Debug\B_Fachada.dll
+C:\App\MissingNumbers_JuanEHenaoGomez\B_Fachada\obj\Debug\B_Fachada.pdb
